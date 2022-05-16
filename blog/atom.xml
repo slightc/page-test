@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-test-site.com/blog</id>
+    <id>https://your-docusaurus-test-site.com/page-test/blog</id>
     <title>Surreal Engine Fast to Use Blog</title>
     <updated>2022-05-16T06:12:19.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/page-test/blog"/>
     <subtitle>Surreal Engine Fast to Use Blog</subtitle>
-    <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
+    <icon>https://your-docusaurus-test-site.com/page-test/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Nothing Here Now]]></title>
         <id>/main</id>
-        <link href="https://your-docusaurus-test-site.com/blog/main"/>
+        <link href="https://your-docusaurus-test-site.com/page-test/blog/main"/>
         <updated>2022-05-16T06:12:19.549Z</updated>
     </entry>
 </feed>
